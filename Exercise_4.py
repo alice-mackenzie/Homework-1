@@ -1,5 +1,5 @@
-# Write a program that receives two inputs from the terminal (using input()).
-# Both inputs need to be integers. Assign them, respectively to a variable named "m"
-# and a variable named "n". The program will print on the terminal, the greatest common divisor (GCD)
-# of the two numbers.
-# Example: n = 10, m = 12, output = 2
+# Write a program that receives three inputs from the terminal (using input()).
+# These inputs needs to be integers. The program will print on the screen the sum of these three inputs.
+# However, if two of the three inputs are equal, the program will print the product of these three inputs.
+# Example 1: n = 1, m = 2, l = 3, output = 1 + 2 + 3 = 6
+# Example 2: n = 1, m = 2, l = 2, output = 1 * 2 * 2 = 4
