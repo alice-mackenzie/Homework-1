@@ -2,6 +2,14 @@
  
 The homework is due on Thursday the 4th of November at 4:00 pm. 
 
+The topics that you will be assessed on are:
+
+- Assignment of variables
+- Types of variables
+- Basic functions (print, len, input)
+- If/elif/else statements
+- While/for loops
+
 5% of the grade is automatically assigned upon submission through github classroom. 
 All the exercises have the same weight (i.e., they all have the same value when it comes to the final grade of the assessment).
 
