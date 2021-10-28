@@ -24,6 +24,6 @@ The criteria to assign each score are as follows:
 
 0.75 - The student has understood the logic and the program would work aside from some minor bugs. The appropriate methods to solve the problem have been used.
 
-1.00 - The program works flawlessly and the appropriate methods to solve it have been used.
+1.00 - The program works flawlessly and the appropriate methods to solve it, have been used.
 
 
