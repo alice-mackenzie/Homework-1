@@ -7,3 +7,9 @@
 # to add elements to the lists.
 # Hint2: there is a very smart and quick implementation of this that can be found online. I'd recommend to try and 
 # come up with your own version
+
+import math
+
+m, n = int(input()), int(input())
+a = math.gcd(m,n)
+print(a)
