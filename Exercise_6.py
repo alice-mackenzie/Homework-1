@@ -4,3 +4,10 @@
 # value of the difference between 24 and the input.
 # Example 1: input = 5, output = 19
 # Example 2: input = 26, output = 8
+
+x = int(input())
+
+if x > 24:
+    print(abs(24-x)**3)
+else:
+    print (24-x)
