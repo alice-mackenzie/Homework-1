@@ -7,3 +7,14 @@
 # example 2: n = 3, p = 6, output = 3*33*333*3333*33333*333333 = 1220864470355308779
 
 
+n = input()
+p = int(input())
+answer = 1
+
+for x in range (1,p+1):
+    nint = (n*x)
+    #print (nint)
+    nint = int(nint)
+    answer = answer*nint
+
+print (answer)
