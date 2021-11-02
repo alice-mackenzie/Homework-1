@@ -9,7 +9,6 @@
 # come up with your own version
 
 import math
-
 m, n = int(input()), int(input())
 a = math.gcd(m,n)
 print(a)
